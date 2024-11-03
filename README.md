@@ -143,7 +143,7 @@ Contributions are welcome! Please read our contributing guidelines and submit pu
 ## 📖 Resources
 - [NICE Guidelines 2022](nice-2022/original/type-1-diabetes-in-adults-diagnosis-and-management-pdf-1837276469701.pdf)
 - [ADA Guidelines 2021](ada-2021/original/dci210043.pdf)
-- [xDrip+ Documentation](link)
+- [xDrip+ Documentation](https://xdrip.readthedocs.io/en/latest/)
 
 ## ⚠️ Disclaimer
 This analysis is for informational purposes only. All medical decisions should be made in consultation with healthcare providers. The technical implementations derived from this analysis should undergo appropriate safety validation before use.
