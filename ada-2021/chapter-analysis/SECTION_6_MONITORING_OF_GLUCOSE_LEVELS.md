@@ -3,7 +3,9 @@
 
 ## Chapter Overview
 **Focus Area:** Glucose monitoring methods, targets, and metrics
+
 **Key Topics:** CGM, HbA1c, Time in Range, AGP analysis
+
 **Relevance to Project:** Critical - Core functionality for MDI optimization
 
 ## Clinical Recommendations
