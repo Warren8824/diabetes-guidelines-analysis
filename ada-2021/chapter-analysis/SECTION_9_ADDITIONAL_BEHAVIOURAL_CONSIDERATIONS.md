@@ -3,7 +3,9 @@
 
 ## Chapter Overview
 **Focus Area:** Nutrition, exercise, alcohol, sleep patterns
+
 **Key Topics:** Carb counting, activity adjustments, lifestyle factors
+
 **Relevance to Project:** High - Critical for accurate dose calculations and adjustments
 
 ## Clinical Recommendations
