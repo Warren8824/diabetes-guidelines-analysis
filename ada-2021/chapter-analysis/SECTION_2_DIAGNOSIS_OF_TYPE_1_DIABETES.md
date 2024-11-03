@@ -3,7 +3,9 @@
 
 ## Chapter Overview
 **Focus Area:** Diagnostic criteria and classification of T1D
+
 **Key Topics:** Diagnostic processes, autoantibody testing, C-peptide measurement
+
 **Relevance to Project:** Moderate - Important for user classification and safety validation
 
 ## Clinical Recommendations
