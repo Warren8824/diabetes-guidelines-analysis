@@ -3,7 +3,9 @@
 
 ## Chapter Overview
 **Focus Area:** Insulin regimens, dosing principles, and adjustments
+
 **Key Topics:** MDI management, basal-bolus therapy, adjustment algorithms
+
 **Relevance to Project:** Critical - Core focus for MDI optimization system
 
 ## Clinical Recommendations
