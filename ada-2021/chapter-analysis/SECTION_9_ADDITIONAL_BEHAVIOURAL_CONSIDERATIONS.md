@@ -1,5 +1,5 @@
 # ADA Guidelines Chapter 9: Additional Behavioral Considerations
-*Analysis Date: 2024-02-03*
+*Analysis Date: 2024-11-03*
 
 ## Chapter Overview
 **Focus Area:** Nutrition, exercise, alcohol, sleep patterns
