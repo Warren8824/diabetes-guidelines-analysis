@@ -1,5 +1,5 @@
 # ADA Guidelines Chapter 13: Adjunctive Therapies
-*Analysis Date: 2024-02-03*
+*Analysis Date: 2024-11-03*
 
 ## Chapter Overview
 **Focus Area:** Additional medications used alongside insulin
