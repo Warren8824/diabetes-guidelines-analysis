@@ -1,5 +1,5 @@
 # ADA Guidelines Chapter 3: Aims and Goals of Management
-*Analysis Date: 2024-02-03*
+*Analysis Date: 2024-11-03*
 
 ## Chapter Overview
 **Focus Area:** Treatment targets and management objectives
