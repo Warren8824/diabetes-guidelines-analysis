@@ -1,5 +1,5 @@
 # ADA Guidelines Chapter 1: Introduction and Rationale
-*Analysis Date: 2024-02-03*
+*Analysis Date: 2024-11-03*
 
 ## Chapter Overview
 **Focus Area:** Foundation and context for type 1 diabetes management
