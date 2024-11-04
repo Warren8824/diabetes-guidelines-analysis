@@ -186,6 +186,7 @@
    - Data gap identification
    - System health checks
    - Connection monitoring
+   - Gastroparesis risks
 
 2. Adjustment Safety
    - Maximum change limits
