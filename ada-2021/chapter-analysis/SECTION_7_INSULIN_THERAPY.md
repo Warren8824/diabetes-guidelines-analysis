@@ -1,5 +1,5 @@
 # ADA Guidelines Chapter 7: Insulin Therapy
-*Analysis Date: 2024-02-03*
+*Analysis Date: 2024-11-03*
 
 ## Chapter Overview
 **Focus Area:** Insulin regimens, dosing principles, and adjustments

@@ -1,5 +1,5 @@
 # ADA Guidelines Chapter 6: Monitoring of Glucose Levels
-*Analysis Date: 2024-02-03*
+*Analysis Date: 2024-11-03*
 
 ## Chapter Overview
 **Focus Area:** Glucose monitoring methods, targets, and metrics

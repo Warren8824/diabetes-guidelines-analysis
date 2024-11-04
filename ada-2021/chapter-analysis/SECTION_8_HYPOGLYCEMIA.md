@@ -1,5 +1,5 @@
 # ADA Guidelines Chapter 8: Hypoglycemia
-*Analysis Date: 2024-02-03*
+*Analysis Date: 2024-11-03*
 
 ## Chapter Overview
 **Focus Area:** Hypoglycemia prevention, detection, and management

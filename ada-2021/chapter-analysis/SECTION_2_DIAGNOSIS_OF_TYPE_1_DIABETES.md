@@ -1,5 +1,5 @@
 # ADA Guidelines Chapter 2: Diagnosis
-*Analysis Date: 2024-02-03*
+*Analysis Date: 2024-11-03*
 
 ## Chapter Overview
 **Focus Area:** Diagnostic criteria and classification of T1D
