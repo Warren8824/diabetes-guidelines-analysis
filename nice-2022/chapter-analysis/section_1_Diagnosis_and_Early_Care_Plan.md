@@ -1,5 +1,5 @@
 # NICE Guidelines Chapter 1: Diagnosis and Early Care Plan
-*Analysis Date: 2024-02-03*
+*Analysis Date: 2024-11-04*
 
 ## Chapter Overview
 **Focus Area:** Diagnosis criteria and initial care planning
