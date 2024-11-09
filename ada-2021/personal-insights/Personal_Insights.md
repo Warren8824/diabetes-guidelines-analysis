@@ -1,5 +1,5 @@
 # ADA Guidelines Personal Insights Analysis
-*From perspective of T1D with 18 years experience*
+*From perspective of T1D with 18 years experience - MDI Novorapid / Levemir, Libre2 Sensor, Xdrip+ Integration*
 *Analysis Date: 2024-11-09*
 
 ## Glucose Monitoring Insights
@@ -7,7 +7,7 @@
 ### CGM Data Usage
 - **Real-world Accuracy:**
   - LibreFreeStyle 2 with xDrip+ offers improved functionality over standard software
-  - Calibration primarily needed at sensor start and when physical symptoms don't match readings
+  - Calibration primarily needed at sensor start and when physical symptoms don't match readings (Daily when glucose levels are stable is optimal)
   - Physical symptoms remain important validation tool despite CGM data
 
 - **Pattern Recognition Reality:**
@@ -51,7 +51,7 @@
     - 5am (dawn phenomenon)
     - 1pm (afternoon coverage)
     - 9pm (overnight stability)
-  - Validation through AGP showed improvement within month
+  - Validation through AGP showed improvement within 2 months
 
 ### Timing and Response Patterns
 - **Insulin Activity:**
@@ -60,7 +60,7 @@
     - Main effect: 45 mins - 2 hours
     - Total duration: ~4 hours
     - Higher glucose levels extend onset time
-  - Pre-bolusing found ineffective contrary to guidelines
+  - Pre-bolusing found ineffective contrary to guidelines (glucose rise takes ~30 mins )
   - Stable glucose 30 minutes pre-meal indicates better meal response
 
 ### Workflow Adaptations
@@ -83,14 +83,14 @@
     - Total reduction achieved: 6 units daily
     - Better control with lower total insulin
   - Timing optimization:
-    - 5am: Counters dawn phenomenon
+    - 5am: Helps with dawn phenomenon (2 unit bolus required also)
     - 1pm: Manages afternoon patterns
     - 9pm: Overnight stability
 
 ### Correction Factor Reality
 - **ISF Variations:**
-  - Standard ISF: 2.4 mmol/L
-  - Morning resistance: 1.5 mmol/L (5am-9am)
+  - Standard ISF: 2.2 mmol/L
+  - Morning resistance: ~ 1.5 mmol/L (5am-9am)
   - Exercise impact:
     - Increased sensitivity for 24+ hours
     - More predictable with routine exercise
@@ -115,10 +115,12 @@
 ### Technology Integration
 - **xDrip+ Utilization:**
   - IOB tracking crucial for stacking prevention
+  - Timer based insulin pen caps useful for basal timing
+  - Immediate logging of insulin required for accuracy in data
   - Predictive alerts enhance safety
   - Data export enables pattern analysis
   - Calibration flexibility improves accuracy
-  - Custom alert thresholds match personal needs
+  - Custom alert thresholds help match personal needs
 
 ## Special Circumstances and Adaptations
 
@@ -141,7 +143,7 @@
     - 15g carb snack protocol
   - Basal adjustments:
     - No routine exercise adjustments
-    - 1-2 unit reduction after missed meals
+    - 1-2 unit reduction after 2 missed meals
 
 ### Illness/Stress Management
 - **Response Patterns:**
@@ -160,7 +162,7 @@
 
 ### Travel and Schedule Variations
 - **Consistency Approach:**
-  - Maintain standard timing regardless of schedule
+  - Try to maintain standard timing regardless of schedule
   - Early morning basal maintained even on holiday
   - Dawn phenomenon correction aligned with actual wake time
   - Climate considerations:
@@ -172,12 +174,14 @@
 ### Data Collection Reality
 - **Practical Tracking:**
   - xDrip+ advantages over standard software:
-    - Better calibration control
+    - Better calibration control with blood glucose metre
     - Superior export features
     - Customizable alerts
     - Prediction capabilities
+    - No sensor warm-up gap (start new sensor 1 hour prior to current sensor expiry)
   - Data management:
     - Monthly data dumps for analysis
+    - Quick analysis through in-range values, mean, median and CV (7d, 30d, 90d)
     - Real-time pattern review via AGP
     - Validation through physical symptoms
     - Backup meter for calibration
@@ -197,8 +201,8 @@
     - Day/night differentiation
 
 ### Technology Limitations
-- **Current Gaps:**
-  - Basal profiling for MDI needs improvement
+- **My Current Regimes Gaps:**
+  - Basal profiling for MDI needs improvement (Xdrip+ setup for microbasal via pump)
   - Limited historical pattern analysis tools
   - Integration between devices/software
   - MDI-specific decision support
@@ -210,7 +214,7 @@
   - Physical symptom validation
   - Experience-based adjustments
   - Conservative change approach
-  - Regular routine maintenance
+  - Regular routine maintenance / calibration
 
 ### Safety Implementation
 - **Personal Safety System:**
@@ -231,12 +235,12 @@
 - **Glucose Monitoring:**
   - Successfully achieving recommended 70% data capture (80-95%)
   - Meeting TIR targets (55-75%)
-  - Regular pattern analysis through AGP (if available)
+  - Regular pattern analysis through AGP
   - Effective use of technology for decision support
 
 - **Safety Protocols:**
   - Conservative adjustment approach aligns with guidelines
-  - Effective hypoglycemia prevention strategies
+  - Struggle with effective hypoglycemia prevention strategies
   - Multi-layered alert system
   - Risk-based decision making
 
@@ -245,7 +249,7 @@
   - Three daily basal doses vs recommended two
   - Pre-bolusing found ineffective despite recommendations
   - More aggressive upper threshold (8.0 vs 10.0 mmol/L)
-  - Experience-based ISF rather than calculation-based
+  - Experience-based ISF rather than calculation-based (not optimal)
 
 ### Real-World Enhancements
 - **Technology Integration:**
@@ -257,7 +261,7 @@
 ### Implementation Gaps Identified
 - **System Needs:**
   - Better MDI-specific decision support
-  - Improved basal profiling tools
+  - Improved MDI-specific basal profiling tools
   - Enhanced pattern analysis capabilities
   - Integration between devices and software
 
