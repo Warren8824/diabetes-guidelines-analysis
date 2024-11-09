@@ -1,5 +1,5 @@
 # ADA Guidelines Personal Insights Analysis
-*From perspective of T1D with 18 years experience - MDI Novorapid / Levemir, Libre2 Sensor, Xdrip+ Integration*
+*From perspective of T1D with 18 years experience - MDI Novorapid / Levemir, Libre2 Sensor, Xdrip+ Integration -*
 *Analysis Date: 2024-11-09*
 
 ## Glucose Monitoring Insights
