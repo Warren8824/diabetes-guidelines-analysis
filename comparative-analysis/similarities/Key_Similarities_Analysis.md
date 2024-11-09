@@ -1,5 +1,5 @@
 # Similarities Analysis: NICE and ADA Guidelines
-*Analysis Date: 2024-11-04*
+*Analysis Date: 2024-11-09*
 
 ## Clinical Protocols
 1. Basal Optimization
