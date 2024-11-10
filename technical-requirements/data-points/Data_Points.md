@@ -4,6 +4,26 @@
 ## Overview
 This document outlines all potential data points identified for an MDI optimization system focused on systematic insulin adjustment through basal, ISF, and ICR refinement. While comprehensive, not all data points are required for initial implementation or basic functionality. Core requirements center on CGM data, insulin dosing, and essential user inputs, with enhanced data points providing improved accuracy and safety. Additional data points for system performance and user experience, while valuable for system refinement and validation, may be implemented in later phases. The following sections are organized by necessity, from critical core data to optional enhancement data, allowing for phased implementation while maintaining system safety and effectiveness.
 
+## Initial Setup Data Provided by User
+1. Confirmation and Acknowledgements
+  - Diagnosis Confirmation date (Advise no use if < 12 months diagnosed, refer to health team)
+  - Confirm all waivers including not fit for purpose and remind about medical advice at all levels
+  - Confirm no Comorbidities
+  - Explain bad data equals bad advice
+  - Possible Knowledge Test To Allow Access
+  - Explain this is a tool for assessing data only, any recommendations can be reviewed with medical professionals
+
+2. Current Basal Regimen
+  - Type of Basal Insulin used
+  - Number of Daily Basal Injections
+  - Dose at each period
+
+3. Current Bolus Regimen
+  - Type of Bolus Insulin used
+  - Current ISF
+  - Current ICR
+  - Current pre / post meal bolus time
+
 ## Core CGM Data Points
 1. Glucose Readings
    - Raw readings (5-minute intervals)
