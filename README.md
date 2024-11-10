@@ -8,7 +8,7 @@ This repository contains a detailed analysis of the NICE (2022) and ADA (2021) T
 
 ## MDI-optimisation-system
 
-This analysis outlines the technical implementation strategy for an MDI optimization system based on comprehensive analysis of ADA and NICE guidelines, combined with real-world patient insights. The system aims to systematically optimize insulin therapy through a phased approach, prioritizing basal insulin optimization before progressing to ISF and ICR refinement.
+This analysis outlines the technical implementation strategy for an MDI optimization system based on comprehensive analysis of ADA and NICE guidelines, combined with real-world patient insights. The system aims to systematically optimize insulin therapy through live CGM, Carbs and insulin data and a phased approach, prioritizing basal insulin optimization before progressing to ISF and ICR refinement.
 
 [Check out the full analysis!](technical-requirements/MDI-optimisation-system/)
 
