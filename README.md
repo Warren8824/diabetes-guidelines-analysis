@@ -4,6 +4,17 @@
 ## Project Overview
 This repository contains a detailed analysis of the NICE (2022) and ADA (2021) Type 1 Diabetes management guidelines from both patient and developer perspectives. The analysis serves as a foundation for building evidence-based diabetes management tools while incorporating real-world implementation insights.
 
+## ✅ Completed Analyses 
+
+### MDI-optimisation-system
+
+This analysis outlines the technical implementation strategy for an MDI optimization system based on comprehensive analysis of ADA and NICE guidelines, combined with real-world patient insights. The system aims to systematically optimize insulin therapy through a phased approach, prioritizing basal insulin optimization before progressing to ISF and ICR refinement.
+
+[Check out the full analysis!](technical-requirements/MDI-optimisation-system/)
+
+[Or read the summary here...](technical-requirements/MDI-optimisation-system/summary/Summary.md)
+
+
 ## 🎯 Project Goals
 - Analyze clinical guidelines through both patient and developer lenses
 - Document real-world implementation challenges and opportunities
@@ -27,10 +38,20 @@ diabetes-guidelines-analysis/
 │   ├── differences/                # Key differences analysis
 │   └── similarities/               # Common ground analysis
 └── technical-requirements/         # Development Requirements
-    ├── data-points/               # Required data collection
-    ├── calculations/              # Required calculations
-    ├── safety-checks/             # Safety requirements
-    └── validation/                # Validation protocols
+    ├── example-structure/          # Example layout for additional analyses
+        ├── data-points/            # Required data collection
+        ├── calculations/           # Required calculations
+        ├── safety-checks/          # Safety requirements
+        ├── summary/                # Summary Documents
+        ├── validation/             # Validation protocols
+        └── README.md               # Project Outline and Scope
+    └── MDI-optimisation-system/    # Technical Implementation Design Documentation for Basal, ISF and ICR optimisation app
+        ├── data-points/            # Required data collection
+        ├── calculations/           # Required calculations
+        ├── safety-checks/          # Safety requirements
+        ├── summary/                # Summary Documents
+        ├── validation/             # Validation protocols
+        └── README.md               # Project Outline and Scope
 ```
 
 ## 🔍 Key Focus Areas
@@ -88,7 +109,7 @@ Each guideline section is analyzed using the following framework:
    - Target values
    - Safety parameters
 
-2. Technical Implementation
+2. Technical Implementation (Currently aimed at MDI Optimisation System)
    - Data requirements
    - Processing needs
    - Validation rules
@@ -119,6 +140,7 @@ This analysis maintains focus on:
 - Understand safety protocols
 - Access implementation guides
 - Reference validation rules
+- Use analysis to help with technical implementation design of Diabetes related apps
 
 ### For Healthcare Providers
 - Compare guideline approaches
@@ -136,6 +158,7 @@ This analysis maintains focus on:
 Contributions are welcome! Please read our contributing guidelines and submit pull requests for:
 - Additional analysis insights
 - Implementation considerations
+- Addition technical implementation design documents [Check our example structure](technical-requirements/example-structure)
 - Technical requirements
 - Safety protocols
 
