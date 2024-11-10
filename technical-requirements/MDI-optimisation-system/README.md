@@ -10,6 +10,7 @@ This section outlines the technical implementation strategy for an MDI optimizat
    - Analyze overnight glucose patterns
    - Detect dawn phenomenon
    - Calculate optimal basal adjustments
+   - Validate adjustments
 
 2. ISF Refinement
    - Track correction dose effectiveness
