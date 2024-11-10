@@ -1,5 +1,5 @@
 # NICE Guidelines Personal Insights Analysis - Differential Focus
-*Analysis Date: 2024-11-09*
+*From perspective of T1D with 18 years experience - MDI Novorapid / Levemir, Libre2 Sensor, Xdrip+ Integration -* *Analysis Date: 2024-11-09*
 
 Note: Core CGM usage, pattern recognition, and insulin management insights covered in ADA analysis.
 
