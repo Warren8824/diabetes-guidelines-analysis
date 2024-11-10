@@ -39,12 +39,12 @@ diabetes-guidelines-analysis/
 │   └── similarities/               # Common ground analysis
 └── technical-requirements/         # Development Requirements
     ├── example-structure/          # Example layout for additional analyses
-        ├── data-points/            # Required data collection
-        ├── calculations/           # Required calculations
-        ├── safety-checks/          # Safety requirements
-        ├── summary/                # Summary Documents
-        ├── validation/             # Validation protocols
-        └── README.md               # Project Outline and Scope
+    │   ├── data-points/            # Required data collection
+    │   ├── calculations/           # Required calculations
+    │   ├── safety-checks/          # Safety requirements
+    │   ├── summary/                # Summary Documents
+    │   ├── validation/             # Validation protocols
+    │   └── README.md               # Project Outline and Scope
     └── MDI-optimisation-system/    # Technical Implementation Design Documentation for Basal, ISF and ICR optimisation app
         ├── data-points/            # Required data collection
         ├── calculations/           # Required calculations
