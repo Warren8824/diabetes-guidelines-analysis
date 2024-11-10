@@ -1,4 +1,4 @@
-# Required Calculations for MDI Optimization System
+# Required Calculations for MDI Optimisation System
 *Analysis Date: 2024-11-10*
 
 ## Overview
