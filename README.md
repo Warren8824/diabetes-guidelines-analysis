@@ -4,7 +4,7 @@
 ## Project Overview
 This repository contains a detailed analysis of the NICE (2022) and ADA (2021) Type 1 Diabetes management guidelines from both patient and developer perspectives. The analysis serves as a foundation for building evidence-based diabetes management tools while incorporating real-world implementation insights.
 
-## ✅ Completed Analyses 
+### ✅ Completed Analyses 
 
 ## MDI-optimisation-system
 
