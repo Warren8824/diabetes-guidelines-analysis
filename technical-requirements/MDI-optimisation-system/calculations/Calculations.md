@@ -44,8 +44,7 @@ This document outlines the calculations required for MDI optimisation, structure
   - CGM Data Quality
     - Data completeness percentage
     - Gap frequency analysis
-    - Calibration accuracy score (Future Iterations)
-    - calibration frequency score (Future Iterations)
+    - Calibration accuracy score (Future Iterations - Glucose stability prior to calibration)
     - Noise level assessment
     - Suspected missed inputs Carbs / Insulin (Future Iterations)
   
