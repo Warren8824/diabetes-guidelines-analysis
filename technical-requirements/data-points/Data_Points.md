@@ -24,6 +24,10 @@ This document outlines all potential data points identified for an MDI optimizat
   - Current ICR
   - Current pre / post meal bolus time
 
+4. User Defined Targets
+  - Glucose Range (Low 3.9 - 5.0, High 6.9 - 9.9)
+  - Time in Range Target (70% - 95%) - Suggest improving TIR or Range at separate times
+
 ## Core CGM Data Points
 1. Glucose Readings
    - Raw readings (5-minute intervals)
