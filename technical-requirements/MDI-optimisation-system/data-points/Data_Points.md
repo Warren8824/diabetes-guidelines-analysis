@@ -7,8 +7,9 @@ This document outlines all potential data points identified for an MDI optimizat
 ## Initial Setup Data Provided by User
 1. Confirmation and Acknowledgements
   - Diagnosis Confirmation date (Advise no use if < 12 months diagnosed, refer to health team)
+  - Insulin Regimen began date (Advise no use if medications changed < 6 months)
+  - Confirm no other medications or Comorbidities
   - Confirm all waivers including not fit for purpose and remind about medical advice at all levels
-  - Confirm no Comorbidities
   - Explain bad data equals bad advice
   - Possible Knowledge Test To Allow Access
   - Explain this is a tool for assessing data only, any recommendations can be reviewed with medical professionals
