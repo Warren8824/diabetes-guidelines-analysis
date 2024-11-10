@@ -111,7 +111,7 @@ This document outlines all potential data points identified for an MDI optimizat
    - Confounding factors
    - Exception tracking
 
-## Experimental Data Points (Require further investigation)
+## Experimental Data Points (Assessment criteria)
 
 1. Basal Testing Data
    - Fasting Periods
@@ -154,6 +154,9 @@ This document outlines all potential data points identified for an MDI optimizat
      - Meal size variations
      - Success markers
      - Pattern reliability
+
+4. Bolus Timing Data (Future Iterations)
+
 
 ## Safety Monitoring Data Points
 
