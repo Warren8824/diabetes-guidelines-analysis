@@ -154,7 +154,7 @@ This document outlines the calculations required for MDI optimisation, structure
   - Outcome Analysis
     - Recommendation success rate
     - Target achievement percentage
-    - Time to goal calculation
+    - Time to goal calculation (Ensure to limit drop after research)
     - Stability improvement measurement
   
 - **Pattern Recognition Performance**
